@@ -1,4 +1,4 @@
-# Joseph-Gyegyiri-Data-Analysis-Steps
+# Joseph-Gyegyiri-Cryptocurrency minor analysis
 # Obectives
 # Data Sourcing
 # Data Transformations
